@@ -20,7 +20,7 @@ It is an Excel Data Analysis Project showcasing the Customer Segmentation and th
 ---
 
 ## 📂 Project Files
-- [📑 Excel Workbook](./Your_Excel_File.xlsx)
+- [📑 Excel Workbook](Customer_Segmentation_&_Purchase_Behaviour.xlsx)
 
 ---
 
